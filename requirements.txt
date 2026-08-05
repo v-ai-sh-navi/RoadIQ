@@ -1,9 +1,8 @@
 streamlit
 pandas
-geopandas
+geopandas==1.0.1
 folium
 streamlit-folium
 plotly
-shapely
-fiona
 pyogrio
+shapely
