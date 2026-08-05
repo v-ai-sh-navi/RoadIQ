@@ -106,7 +106,7 @@ with left:
 # GIS MAP
 # ==========================================
 
-    st.header("🗺 GIS Map")
+    st.header("GIS Map")
 
 m = create_map()
 
